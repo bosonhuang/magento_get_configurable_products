@@ -3,7 +3,7 @@
  *
  * NOTICE OF LICENSE
  *
- * Ther is no license at all. Free to use.
+ * There is no license at all. Free to use.
  * Credit to Boson @ bosonhuang.com
  *
  *
